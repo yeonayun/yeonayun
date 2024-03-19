@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hello Welcome to Ayun's git 👋![윰애교GIF](https://github.com/yeonayun/yeonayun/assets/128577826/7ffc373b-5c14-402a-9d02-aeaa976d50ba)
+
 
 <!--
 **yeonayun/yeonayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![Uploading 윰애교GIF (2).gif…]()
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
