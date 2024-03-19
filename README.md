@@ -1,4 +1,5 @@
-### Hello Welcome to Ayun's git 👋![윰애교GIF](https://github.com/yeonayun/yeonayun/assets/128577826/7ffc373b-5c14-402a-9d02-aeaa976d50ba)
+### Hello Welcome to Ayun's git 
+![윰애교GIF](https://github.com/yeonayun/yeonayun/assets/128577826/7ffc373b-5c14-402a-9d02-aeaa976d50ba)
 
 
 <!--
