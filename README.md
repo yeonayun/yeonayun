@@ -1,5 +1,6 @@
 
-# yeonayun 😉
+# yeonayun ![CuteKittyGIF](https://github.com/yeonayun/yeonayun/assets/128577826/f22d3a96-7bdc-4c01-a970-ffc8ba7175e9)
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
