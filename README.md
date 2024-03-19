@@ -13,6 +13,4 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-![윰애교GIF](https://github.com/yeonayun/yeonayun/assets/128577826/b2d52d7c-80dd-4936-93c8-131da79e9b11)
-
 
