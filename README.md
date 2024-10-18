@@ -1,5 +1,5 @@
 
-# 💕 Hello Welcome to Ayun's github 💕
+#  Hello Welcome to Ayun's github
 
 ### 💪My Skills
 #### Platforms & Languages
