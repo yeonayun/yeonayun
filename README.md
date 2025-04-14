@@ -32,12 +32,17 @@
 
 ---
 
-### 📫 Contact
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-blog-url"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=velog&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
+## 📫 Contact
+
+<div align="center">
+  <a href="mailto:yeona.dev@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yeonayun.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=blogger&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 
