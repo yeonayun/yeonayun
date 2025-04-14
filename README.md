@@ -10,14 +10,25 @@
 ## 💻 Tech Stack
 
 ### 🌐 Languages  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)  
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  </a>
+</div>
 
 ### ⚙️ Frameworks & Libraries  
-[![My Skills](https://skillicons.dev/icons?i=nextjs,spring)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,spring" />
+  </a>
+</div>
 
 ### 🛠 Tools  
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,github,figma,discord" />
+  </a>
+</div>
 
 ---
 
