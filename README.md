@@ -1,10 +1,6 @@
 <h1 align="center">안녕하세요 👋</h1>
 <h2 align="center">아이디어에 숨을 불어넣는 개발자 연아윤입니다 💡</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pretendard&color=FEC260&size=24&center=true&vCenter=true&width=600&height=35&lines=Creative+Frontend+Developer;Bringing+Ideas+to+Life+with+Code" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 💻 Tech Stack
