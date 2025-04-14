@@ -7,16 +7,17 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-</p>
+### 🌐 Languages  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)  
+
+### ⚙️ Frameworks & Libraries  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,spring)](https://skillicons.dev)
+
+### 🛠 Tools  
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
+
 
 ---
 
