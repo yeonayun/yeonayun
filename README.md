@@ -24,11 +24,11 @@
 </div>
 
 ---
+## 📊 Most Used Languages
 
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonayun&layout=compact&theme=rose_pine" />
+</div>
 
 ---
 
