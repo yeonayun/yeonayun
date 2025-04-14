@@ -32,16 +32,6 @@
 
 ---
 
-## 📫 Contact
-
-<div align="center">
-  <a href="mailto:yeona.dev@email.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yeonayun.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-Blog-black?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-</div>
 
 ## 📊 Most Used Languages
 
