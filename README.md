@@ -36,12 +36,13 @@
 
 <div align="center">
   <a href="mailto:yeona.dev@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yeonayun.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=blogger&logoColor=white" />
+  <a href="https://yeonayun.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-Blog-black?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </div>
+
 
 
 ---
