@@ -2,9 +2,7 @@
 
 ## 💻 Tech Stack
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F8D92F&center=false&vCenter=false&width=435&lines=아이디어에+숨을+불어넣는+개발자+연아윤입니다+💡" alt="Typing SVG" />
-</h1>
+<h2 align="left">💡 아이디어에 숨을 불어넣는 개발자 <strong>연아윤</strong>입니다</h2>
 
 
 ### 🌐 Languages  
