@@ -19,7 +19,7 @@
 ### 🛠 Tools  
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,github,figma,discord" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,github,figma" />
   </a>
 </div>
 
