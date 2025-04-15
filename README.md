@@ -2,7 +2,7 @@
 
 ## 💻 Tech Stack
 
-<h2 align="left">💡 아이디어에 숨을 불어넣는 개발자 <strong>연아윤</strong>입니다</h2>
+<h2 align="left">💡 아이디어에 숨을 불어넣는 개발자 <strong>연아윤</strong>입니다 💡</h2>
 
 
 ### 🌐 Languages  
